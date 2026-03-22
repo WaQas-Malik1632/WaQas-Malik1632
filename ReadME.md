@@ -1,5 +1,5 @@
 # 💫 About Me:
- QA Automation Engineer | Software Test Engineer | Manual QA Engineer | Selenium| Selenium WebDriver | Playwright | Java | Cucumber | TestNG | Jenkins | CI/CD | JMeter | Postman | BDD | TDD |<br>
+ QA Automation Engineer | Software Test Engineer | Manual QA Engineer | Selenium | Selenium WebDriver | Playwright | Java | Cucumber | TestNG | Jenkins | CI/CD | JMeter | Postman | BDD | TDD |<br>
 
 
 ## 🌐 Socials:
